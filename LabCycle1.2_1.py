@@ -1,5 +1,5 @@
 a=input("Enter the string : ")
-print(a)
+
 p=[]
 p=a.split(" ")
 counts = dict()
